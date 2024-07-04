@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyephy&label=Profile%20views&color=0e75b6&style=flat" alt="tonyephy" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 - 🔭 I’m currently working on **Tour recommender mobile Application**
 
 - 🌱 I’m currently learning **Machine learning**
@@ -16,7 +18,6 @@
 - 📫 How to reach me **tonylvan77@gmail.com**
 
 - ⚡ Fun fact **I think am funny try me out!**
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
