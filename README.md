@@ -1,13 +1,13 @@
+<div align="right"> <img src="https://raw.githubusercontent.com/tonyephy/tonyephy/main/Logo.png"> </div>
 <h1 align="left">Hi 👋, I'm Antony Wanjiru</h1>
 <h3 align="left">A passionate Software Developer from Kenya Nairobi</h3
-<div align="right"> <img src="https://raw.githubusercontent.com/tonyephy/tonyephy/main/Logo.png"> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyephy&label=Profile%20views&color=0e75b6&style=flat" alt="tonyephy" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on **Tour recommender mobile Application**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning and Data Science**
 
 - 👯 I’m looking to collaborate on [Health Connect mobile application](https://github.com/tonyephy/HealthConnect)
 
