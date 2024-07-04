@@ -1,7 +1,6 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/tonyephy/tonyephy/main/Logo.png"> </div>
 <h1 align="center">Hi 👋, I'm Antony Wanjiru</h1>
-<h3 align="center">A passionate Software Developer from Kenya Nairobi</h3>
-
+<h3 align="center">A passionate Software Developer from Kenya Nairobi</h3
+<div align="left"> <img src="https://raw.githubusercontent.com/tonyephy/tonyephy/main/Logo.png"> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyephy&label=Profile%20views&color=0e75b6&style=flat" alt="tonyephy" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
