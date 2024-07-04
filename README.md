@@ -1,5 +1,4 @@
-<div align="right" > <img  width="90" height="100" src="https://raw.githubusercontent.com/tonyephy/tonyephy/main/Logo.png"> </div>
-<div align="left"> <img  width="100" height="100" src="https://raw.githubusercontent.com/tonyephy/tonyephy/main/profile1.jpg"> </div>
+<div align="left"> <img  width="150" height="100" src="https://raw.githubusercontent.com/tonyephy/tonyephy/main/profile1.jpg"> </div><div align="right" > <img  width="150" height="100" src="https://raw.githubusercontent.com/tonyephy/tonyephy/main/Logo.png"> </div>
 <h1 align="left">Hi 👋, I'm Antony Wanjiru</h1>
 <h3 align="left">A passionate Software Developer from Kenya Nairobi</h3
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyephy&label=Profile%20views&color=0e75b6&style=flat" alt="tonyephy" /> </p>
