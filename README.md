@@ -1,3 +1,5 @@
+<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/logo.png"> </div>
+
 <h1 align="center">Hi 👋, I'm Antony Wanjiru</h1>
 <h3 align="center">A passionate Software Developer from Kenya Nairobi</h3>
 
