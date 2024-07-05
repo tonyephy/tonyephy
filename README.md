@@ -6,6 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 - 🔭 I’m currently working on **Tour recommender mobile Application**
 
 - 🌱 I’m currently learning **Machine learning and Data Science**
