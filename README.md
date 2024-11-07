@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Health Connect mobile application](https://github.com/tonyephy/HealthConnect)
 
-- 🤝 I’m looking for help with **Chat bot**
+- 🤝 I’m looking for help with **Chat bot**  **Block Chain Voting system** **Map Integration In mobile app**
 
 - 💬 Ask me about **DevOps & Artificial Intelligence**
 
