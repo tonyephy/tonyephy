@@ -17,7 +17,7 @@
 - 🌱 **Currently learning**: Machine Learning & Data Science
 - 👯 **Open to collaborate on**: [Health Connect mobile application](https://github.com/tonyephy/HealthConnect)
 - 🤝 **Seeking help with**: Chatbot development, Blockchain Voting Systems, Map Integration in Mobile Apps
-- 💬 **Ask me about**: DevOps & Artificial Intelligence
+- 💬 **Ask me about**: DevOps, Artificial Intelligence, Mobile Application Dev, WebDev
 - 📫 **Reach me**: tonylvan77@gmail.com
 - ⚡ **Fun fact**: Coding away with coffee in hand ☕️💻
 
