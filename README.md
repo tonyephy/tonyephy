@@ -34,7 +34,14 @@
 #### Tour Recommender Mobile Application
 > **Technologies**: Flutter  
 > A recommendation app suggesting parks based on user-selected activities.  
-> - **Features**: Preference screen, personalized recommendations, match scoring, activity history tracking.
+> - **Features**: Preference screen, personalized recommendations, match scoring, activity history tracking
+
+### Healthcare Mobile Application
+> Description: A mobile app for streamlined healthcare access, offering features like appointment booking, prescription refills, health tracking, and reminders for appointments and medication
+> **Technologies**
+> Flutter: For cross-platform mobile app development.
+> Firebase: For real-time data storage, user authentication, and push notifications.
+> Google Maps API: For finding nearby healthcare facilities.
 
 #### Racing Game
 > **Technologies**: Flutter  
