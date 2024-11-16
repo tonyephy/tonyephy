@@ -29,6 +29,10 @@
 > **Technologies**: Flutter, Firebase  
 > A communication app for employees with real-time notifications for events, schedule updates, and emergency alerts.
 
+### Crime Analysis mobile application
+**Technologies**: Flutter, Firebase 
+The Crime Analysis App is a comprehensive mobile application aimed at enhancing public safety through effective crime reporting, analysis, and collaboration among citizens, community organizations, and law enforcement agencies. The app leverages modern technology to simplify crime reporting and provide actionable insights for authorities and the public.
+
 ### 🌟 **Completed Projects**
 
 #### Tour Recommender Mobile Application
