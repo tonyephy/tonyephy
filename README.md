@@ -85,3 +85,8 @@ The **Crime Analysis App** is a modern mobile application designed to enhance pu
     </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## 📞 Contact
+For questions, feedback, or support, feel free to reach out:
+
+- **Email**: [tonylvan77@gmail.com](mailto:tonylvan77@gmail.com)
+- **Paypal Email**: [antonywanjiru7777@gmail.com](mailto:antonywanjiru7777@gmail.com)
