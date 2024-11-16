@@ -31,7 +31,7 @@
 
 ### Crime Analysis mobile application
 **Technologies**: Flutter, Firebase 
-The Crime Analysis App is a comprehensive mobile application aimed at enhancing public safety through effective crime reporting, analysis, and collaboration among citizens, community organizations, and law enforcement agencies. The app leverages modern technology to simplify crime reporting and provide actionable insights for authorities and the public.
+The **Crime Analysis App** is a modern mobile application designed to enhance public safety by facilitating crime reporting, real-time crime monitoring, and data-driven collaboration between citizens, police, and community organizations. This app allows users to report crimes, view local crime data, and receive emergency alerts while enabling law enforcement to monitor and manage crime reports effectively.
 
 ### 🌟 **Completed Projects**
 
