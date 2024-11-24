@@ -51,12 +51,25 @@ The **Crime Analysis App** is a modern mobile application designed to enhance pu
 > **Technologies**: Flutter  
 > A real-time racing game featuring player and AI-controlled cars.
 
-#### [eVoteSystem](https://tonyephy.github.io/eVoteSystem/)
-> **Technologies**: Node.js, MongoDB, HTML, CSS  
-> An online voting system allowing users to vote in different election positions.  
-> - **Features**: Voting flow for multiple positions, MongoDB storage, User authentication.
+# E-Voting WebApp  
 
----
+Welcome to the **E-Voting WebApp**, an online platform designed to simplify and secure the voting process. This project allows users to register, log in, cast their votes, and view results seamlessly, ensuring transparency and reliability in elections.
+
+## Features
+- **User Authentication**: Sign up and log in securely.
+- **Voting Interface**: Intuitive design to cast votes effortlessly.
+- **Real-Time Results**: View live updates on the voting outcome.
+- **Admin Dashboard**: Manage and oversee the voting process efficiently.
+- **Responsive Design**: Fully optimized for mobile and desktop devices.
+
+## Live Demo  
+Check out the live demo here:  
+[Kenya E-Voting WebApp](https://kenya-e-voting.onrender.com)
+
+## Tech Stack
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Node.js  
+- **Database**: Firebase  
 
 ### 🛠️ **Languages and Tools**
    
