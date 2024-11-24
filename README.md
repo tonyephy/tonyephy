@@ -71,7 +71,7 @@ Welcome to the **E-Voting WebApp**, an online platform designed to simplify and 
 - **Admin Dashboard**: Manage and oversee the voting process efficiently.
 - **Responsive Design**: Fully optimized for mobile and desktop devices.
 
-## Live Demo  
+## 🚀 Live Demo  
 Check out the live demo here:  
 [Kenya E-Voting WebApp](https://kenya-e-voting.onrender.com)
 
