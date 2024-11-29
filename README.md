@@ -42,6 +42,15 @@ Check out the live demo here:
 **Technologies**: Flutter, Firebase 
 > The **Crime Analysis App** is a modern mobile application designed to enhance public safety by facilitating crime reporting, real-time crime monitoring, and data-driven >collaboration between citizens, police, and community organizations. This app allows users to report crimes, view local crime data, and receive emergency alerts while enabling law enforcement to monitor and manage crime reports effectively.
 
+### Karate Web App
+> A web application designed to manage and showcase karate-related activities, including schedules, events, participant profiles, and more.
+## Tech Stack
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Firebase (Authentication, Firestore Database, Hosting)
+- ## 🚀 Live Demo
+Check out the live demo here:  
+**[Karate Web App](https://karate-webapp.onrender.com)**
+
 ### 🌟 **Completed Projects**
 
 #### Tour Recommender Mobile Application
